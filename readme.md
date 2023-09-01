@@ -10,11 +10,6 @@
   - [Bonus](#bonus)
 - [Submission](#submission)
 - [Evaluation Criteria](#evaluation-criteria)
-  - [Functionality](#functionality)
-  - [Design](#design)
-  - [Code Quality](#code-quality)
-  - [Algorithms](#algorithms)
-  - [Testing](#testing)
 
 ## Introduction
 
@@ -64,6 +59,11 @@ You are tasked with building an interactive dashboard for spatial visualization,
 
 ## Submission
 
+Mind Webs Ventures actively hires react developers who can be part of the product development teams in order to make the organization grow.
+If you are willing to apply for any open position, Fork this repository, complete your code and submit it. 
+
+After publishing your fork and completing your code, you should email your repository link with a cover letter why you want to join our organization at careers@mindwebs.org
+
 - Share the GitHub repository containing your code.
 - Optionally, deploy the application to a hosting platform of your choice (e.g., Vercel, Netlify).
 - Include a README in the codebase with:
@@ -76,22 +76,18 @@ You are tasked with building an interactive dashboard for spatial visualization,
 
 Candidates will be evaluated based on the following criteria:
 
-### Functionality
+- **Functionality**
 
-Does the application work without errors?
+    Does the application work without errors?
+- **Design**
 
-### Design
+    How user-friendly, responsive, and creative is the interface?
+- **Code Quality**
 
-How user-friendly, responsive, and creative is the interface?
+    Is the code modular, readable, and well-documented?
+- **Algorithms**
 
-### Code Quality
+    Are the algorithms correctly implemented and efficient?
+- **Testing**
 
-Is the code modular, readable, and well-documented?
-
-### Algorithms
-
-Are the algorithms correctly implemented and efficient?
-
-### Testing
-
-Are there meaningful tests, and do they cover key functionality?
+    Are there meaningful tests, and do they cover key functionality?
